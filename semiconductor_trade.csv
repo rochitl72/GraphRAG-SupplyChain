@@ -1,0 +1,501 @@
+reporter,partner,trade_value,year
+Japan,Malaysia,9825713,2023
+Mexico,Japan,9563661,2022
+Taiwan,Mexico,6601173,2023
+Germany,Japan,7424587,2022
+China,USA,5970683,2021
+Mexico,South Korea,8091689,2022
+Taiwan,Germany,4916820,2023
+India,USA,2363225,2021
+Japan,USA,4596353,2022
+India,Malaysia,5031909,2023
+South Korea,India,9961975,2022
+China,USA,7489244,2022
+Germany,Vietnam,6403624,2021
+Mexico,India,9891535,2023
+Malaysia,China,5390774,2021
+China,Taiwan,9267197,2022
+India,Vietnam,4913415,2021
+China,South Korea,973942,2022
+China,Japan,3618587,2021
+India,Vietnam,7170263,2023
+Germany,Malaysia,5751384,2022
+Germany,Malaysia,5497065,2023
+USA,Malaysia,9080210,2021
+China,Germany,9515527,2023
+India,USA,7662219,2021
+Germany,Mexico,847206,2022
+Malaysia,Germany,2039404,2023
+Mexico,USA,205824,2022
+Germany,USA,2586846,2023
+Mexico,Germany,3532005,2022
+Vietnam,South Korea,1161536,2022
+China,Vietnam,7872752,2023
+Germany,South Korea,7328798,2021
+South Korea,Malaysia,9691342,2021
+India,Japan,8994409,2023
+China,Mexico,2940716,2022
+Germany,China,8965539,2021
+USA,Taiwan,9523324,2021
+Vietnam,Japan,6755739,2022
+Germany,South Korea,2328983,2021
+China,Taiwan,3691433,2021
+USA,Vietnam,4004290,2022
+Malaysia,USA,1513166,2022
+Japan,Malaysia,8073553,2021
+Vietnam,Germany,9856443,2023
+Vietnam,USA,3113893,2021
+Mexico,Taiwan,3435599,2023
+Germany,China,8790275,2022
+Vietnam,China,9536218,2023
+Malaysia,India,2975626,2021
+Taiwan,China,4914513,2022
+Germany,USA,6073271,2023
+Japan,Taiwan,9158967,2023
+USA,Germany,100027,2022
+Taiwan,Japan,935912,2022
+Taiwan,India,674717,2023
+Germany,Japan,9947668,2023
+Taiwan,Mexico,8905997,2022
+Germany,USA,9952852,2021
+Japan,Germany,1494717,2023
+India,USA,2364578,2021
+China,Mexico,7938723,2023
+Germany,Vietnam,3136771,2022
+Germany,China,6777549,2022
+Germany,Taiwan,4708046,2021
+Mexico,Germany,7410934,2022
+Mexico,Japan,8539224,2023
+Mexico,Vietnam,9006352,2023
+Vietnam,China,8427495,2023
+China,Malaysia,9350864,2021
+Germany,India,3943631,2021
+Japan,Malaysia,9152782,2021
+Malaysia,Japan,7782991,2023
+Japan,USA,8464234,2022
+Vietnam,Malaysia,5832472,2021
+China,Mexico,6040867,2021
+Japan,Germany,502263,2022
+Mexico,Taiwan,3688987,2022
+Mexico,Taiwan,5859222,2021
+China,Japan,3925425,2021
+China,South Korea,6781744,2022
+Mexico,Germany,526960,2021
+Vietnam,Germany,4264082,2023
+Japan,India,7430118,2022
+China,India,1728596,2021
+USA,Germany,6963994,2022
+Germany,Japan,4908393,2021
+Vietnam,Mexico,2980694,2021
+South Korea,Germany,5557733,2023
+Mexico,Taiwan,4270812,2022
+Vietnam,Japan,8325338,2022
+South Korea,Taiwan,8863408,2022
+Vietnam,USA,5901013,2022
+Japan,Malaysia,809824,2022
+Germany,Malaysia,7265553,2022
+USA,Malaysia,4548340,2021
+Japan,USA,3076416,2023
+Germany,Taiwan,2521261,2022
+Japan,Vietnam,8490982,2021
+Taiwan,Malaysia,9055548,2023
+USA,South Korea,9452199,2021
+China,South Korea,3634869,2023
+India,Taiwan,912597,2022
+Japan,Taiwan,4047835,2021
+Mexico,Japan,5462267,2021
+China,South Korea,8098886,2023
+Taiwan,China,7892610,2021
+South Korea,India,8968922,2023
+Mexico,China,793545,2022
+South Korea,India,1248287,2023
+Taiwan,USA,5008514,2023
+Malaysia,USA,420901,2023
+India,Germany,2654383,2021
+Mexico,China,3144194,2023
+Vietnam,China,1730200,2023
+Vietnam,Taiwan,5231209,2021
+Taiwan,Malaysia,9374996,2023
+India,Japan,754667,2022
+Vietnam,Mexico,3128942,2021
+Malaysia,Taiwan,8608231,2021
+Vietnam,Japan,6914680,2022
+India,Malaysia,257070,2022
+Germany,South Korea,7794063,2023
+Mexico,Vietnam,1035352,2021
+Malaysia,China,7316953,2021
+Germany,South Korea,8394692,2022
+Germany,South Korea,1323145,2023
+Vietnam,Taiwan,377483,2021
+South Korea,USA,7117149,2021
+Malaysia,Vietnam,4023000,2023
+Mexico,Vietnam,1165691,2022
+Japan,South Korea,8333710,2022
+China,Germany,6696681,2022
+India,Germany,9489413,2022
+Vietnam,Germany,2204688,2021
+Malaysia,Taiwan,4514347,2022
+Japan,Vietnam,3095766,2021
+Japan,Taiwan,6392443,2023
+China,South Korea,76469,2022
+Vietnam,China,1147417,2023
+Malaysia,Vietnam,9616735,2023
+Taiwan,India,7832419,2023
+Japan,India,4309567,2021
+Taiwan,China,1799435,2021
+Taiwan,Malaysia,4844248,2022
+Taiwan,Vietnam,6444292,2021
+Japan,India,9640489,2021
+China,Mexico,3787881,2022
+USA,South Korea,9963596,2023
+South Korea,India,1975036,2021
+Japan,China,1610908,2021
+India,Malaysia,3306460,2023
+Vietnam,Malaysia,5592919,2022
+Mexico,Vietnam,3797477,2021
+Taiwan,Mexico,4772241,2023
+Malaysia,Germany,282478,2022
+China,India,5069276,2022
+Taiwan,Vietnam,3671867,2021
+Malaysia,India,4591111,2022
+Taiwan,Malaysia,2033582,2021
+USA,Taiwan,2679887,2022
+China,Germany,8231018,2021
+South Korea,India,1241581,2023
+China,USA,5540246,2021
+Vietnam,Germany,9103739,2022
+Taiwan,Vietnam,3314016,2023
+Taiwan,Vietnam,4356456,2022
+Mexico,USA,6602754,2023
+Taiwan,USA,835862,2021
+Malaysia,Germany,4687937,2022
+Germany,Malaysia,6908561,2023
+USA,Germany,5021526,2022
+China,Japan,9958602,2021
+China,USA,4004489,2021
+Japan,China,7818012,2022
+Japan,India,7280781,2023
+Malaysia,Mexico,9880064,2023
+Japan,China,9874750,2023
+Mexico,USA,5355540,2021
+Vietnam,Malaysia,9096611,2023
+South Korea,Vietnam,8693836,2021
+Taiwan,India,6138763,2021
+China,India,7192318,2021
+Japan,USA,4268694,2021
+Germany,Mexico,3785720,2021
+Germany,Mexico,8922550,2021
+Mexico,Taiwan,3150776,2021
+Japan,South Korea,4998122,2021
+USA,Vietnam,3788112,2022
+Taiwan,Vietnam,6269031,2023
+USA,Germany,1285870,2023
+South Korea,Taiwan,2645059,2021
+Vietnam,India,7214093,2021
+Malaysia,China,725489,2023
+Japan,USA,5770323,2023
+USA,Mexico,2854681,2021
+South Korea,India,9029760,2021
+Japan,Mexico,2668031,2023
+USA,China,5574452,2022
+China,South Korea,8669690,2022
+China,India,3858828,2021
+South Korea,Malaysia,9867660,2021
+South Korea,Vietnam,1279931,2022
+USA,Germany,6946101,2021
+Mexico,India,9598822,2022
+Vietnam,India,1210335,2022
+Japan,Vietnam,3237264,2021
+Vietnam,Malaysia,8585171,2022
+Malaysia,Mexico,5843006,2023
+India,Taiwan,5286963,2022
+Taiwan,Mexico,8853883,2023
+China,South Korea,4984606,2021
+Taiwan,South Korea,8266615,2023
+India,South Korea,3210722,2021
+South Korea,Taiwan,4022247,2023
+India,Malaysia,5315745,2021
+Malaysia,Germany,2476452,2021
+Vietnam,Germany,5888405,2023
+Germany,China,5037309,2021
+Germany,Japan,5453773,2021
+Vietnam,China,3944718,2021
+China,Malaysia,5028823,2022
+Germany,USA,8326339,2021
+Japan,Mexico,5076394,2022
+Malaysia,Mexico,7082244,2023
+USA,South Korea,1428150,2023
+China,Taiwan,4510500,2022
+Taiwan,Germany,8732974,2022
+Vietnam,Mexico,4024281,2023
+Taiwan,Germany,749606,2022
+Vietnam,South Korea,6600862,2023
+China,USA,6816776,2021
+South Korea,Japan,7979790,2023
+Malaysia,China,4935355,2021
+Vietnam,Malaysia,8635103,2022
+Japan,South Korea,189682,2023
+India,USA,6508423,2021
+Germany,Malaysia,6348911,2023
+China,Japan,3253732,2021
+USA,Germany,4812602,2021
+Taiwan,USA,4766985,2023
+Germany,Vietnam,7825928,2021
+Malaysia,Taiwan,6651923,2022
+China,USA,4434527,2023
+India,Vietnam,9165978,2022
+China,Vietnam,1913103,2021
+Taiwan,Malaysia,5019457,2021
+Mexico,China,9703983,2023
+Vietnam,Malaysia,9942008,2021
+Vietnam,India,8444720,2021
+Japan,South Korea,1607883,2023
+Germany,South Korea,8548534,2021
+India,Taiwan,4460954,2022
+South Korea,Malaysia,8138253,2023
+Taiwan,Japan,1697124,2022
+India,China,1349966,2023
+Mexico,Malaysia,1966117,2023
+India,Taiwan,5836806,2023
+South Korea,China,1207666,2023
+Japan,India,2520939,2023
+USA,China,2780232,2023
+China,Malaysia,4221493,2022
+Japan,Taiwan,2353486,2021
+Vietnam,Malaysia,9556244,2023
+Taiwan,Malaysia,215881,2021
+Malaysia,Germany,9118897,2021
+Malaysia,Germany,8120851,2021
+South Korea,Mexico,8617110,2022
+Malaysia,India,274432,2023
+Malaysia,South Korea,964195,2022
+China,USA,9315954,2021
+Vietnam,South Korea,5301077,2023
+Japan,Mexico,8762379,2022
+Mexico,Japan,7546653,2022
+Vietnam,China,2218547,2023
+Japan,China,624235,2021
+China,Vietnam,9897115,2021
+Mexico,China,6844679,2021
+Taiwan,South Korea,6423150,2023
+Mexico,South Korea,4528804,2022
+Taiwan,India,5266010,2022
+Mexico,India,8284281,2022
+South Korea,Malaysia,2644227,2023
+Malaysia,Taiwan,9539535,2021
+Taiwan,USA,7449237,2022
+Mexico,USA,7405297,2021
+USA,Taiwan,8695292,2022
+Mexico,China,2982147,2022
+China,Malaysia,700547,2021
+USA,South Korea,5973979,2021
+Germany,Mexico,2302047,2023
+Taiwan,India,5820889,2021
+Vietnam,Taiwan,8952814,2022
+USA,Germany,3903414,2022
+USA,India,5972094,2023
+Mexico,USA,8682756,2021
+Vietnam,Malaysia,8280941,2021
+South Korea,Malaysia,8711432,2021
+Japan,Vietnam,5232155,2022
+Mexico,Malaysia,5028675,2021
+India,Japan,9831552,2021
+South Korea,China,3274419,2021
+Vietnam,Japan,3232131,2022
+South Korea,China,3080219,2022
+Germany,India,3401584,2022
+India,China,566695,2021
+Japan,Taiwan,9021441,2023
+China,Mexico,9143374,2021
+Germany,Mexico,82774,2021
+Malaysia,South Korea,4927141,2022
+Germany,USA,8964392,2023
+Vietnam,Taiwan,3498910,2023
+Taiwan,Malaysia,4027409,2022
+USA,South Korea,3327234,2023
+China,Japan,4573136,2022
+Taiwan,India,686475,2022
+USA,South Korea,9796739,2023
+Germany,Japan,4124009,2021
+China,India,2229350,2021
+Malaysia,Germany,5237565,2022
+Mexico,Vietnam,5604069,2022
+Mexico,Vietnam,1700856,2023
+South Korea,Malaysia,378031,2023
+Germany,Taiwan,87299,2021
+Vietnam,China,9734344,2021
+Malaysia,Japan,8354784,2023
+Vietnam,South Korea,8772812,2021
+Taiwan,USA,1446743,2021
+Malaysia,Mexico,1922103,2021
+Germany,South Korea,7823209,2023
+Vietnam,South Korea,5311525,2022
+USA,Vietnam,6714689,2021
+South Korea,Malaysia,5888816,2022
+Vietnam,Malaysia,3274379,2023
+Germany,USA,5171974,2021
+Germany,China,6884091,2021
+Vietnam,USA,7871391,2022
+South Korea,USA,6692436,2021
+Taiwan,Mexico,3561935,2023
+USA,Mexico,2425492,2022
+Taiwan,Vietnam,9918543,2022
+USA,Japan,1355362,2021
+USA,Japan,9408135,2023
+South Korea,Japan,3358505,2022
+Malaysia,India,1339947,2023
+Japan,China,4615909,2023
+Germany,Mexico,8510777,2022
+USA,Germany,3894141,2023
+China,Germany,419855,2021
+USA,China,3929993,2022
+China,Vietnam,2679831,2021
+Germany,USA,9162989,2023
+Taiwan,Vietnam,3339027,2021
+USA,India,7222274,2021
+Mexico,India,7460174,2022
+Vietnam,Mexico,7146854,2023
+Malaysia,Vietnam,1600929,2022
+Malaysia,Taiwan,2536642,2023
+Germany,Mexico,1437422,2023
+Japan,Taiwan,4242438,2021
+India,South Korea,4066958,2023
+Mexico,Japan,1940362,2022
+Mexico,South Korea,382789,2021
+Germany,Japan,1168635,2023
+Japan,South Korea,7166508,2021
+Japan,South Korea,235545,2021
+USA,Japan,4610696,2021
+South Korea,Vietnam,7845337,2022
+USA,India,1174612,2023
+South Korea,Taiwan,6747191,2023
+USA,Malaysia,8836864,2023
+Taiwan,Japan,5513632,2021
+Taiwan,Vietnam,9852922,2023
+Malaysia,South Korea,1706333,2022
+Taiwan,Vietnam,6795539,2022
+USA,Vietnam,519657,2022
+Malaysia,Mexico,1940084,2023
+Japan,Taiwan,8132705,2021
+Mexico,Japan,2569333,2023
+Malaysia,China,5257519,2023
+Malaysia,Mexico,1957126,2021
+China,India,9261739,2021
+Japan,Taiwan,5503275,2023
+Malaysia,Mexico,9541268,2021
+South Korea,Vietnam,7940086,2021
+Taiwan,Malaysia,7609031,2021
+Japan,South Korea,1811257,2023
+Mexico,South Korea,5578393,2021
+Vietnam,India,9117042,2021
+Germany,Malaysia,6905667,2022
+China,India,2369175,2021
+Malaysia,South Korea,866108,2021
+USA,India,8294136,2023
+India,Malaysia,7866332,2022
+Vietnam,USA,8813147,2023
+Japan,China,3716914,2021
+Mexico,Japan,7440128,2021
+Vietnam,Mexico,8278454,2021
+USA,Vietnam,9530819,2022
+Japan,USA,6970321,2023
+Germany,India,6553102,2023
+South Korea,Taiwan,7919708,2022
+India,Germany,8198408,2022
+South Korea,Taiwan,2359962,2023
+Japan,Taiwan,2422939,2022
+Japan,USA,4213070,2022
+South Korea,Mexico,9077593,2021
+Germany,Mexico,2505539,2021
+India,Vietnam,5527827,2022
+China,Malaysia,5665982,2023
+Germany,Malaysia,3663635,2022
+Germany,South Korea,8569073,2021
+China,Japan,2308205,2023
+Japan,Malaysia,355079,2021
+South Korea,Taiwan,7362822,2023
+South Korea,China,6106794,2022
+India,Vietnam,5501320,2021
+Malaysia,Taiwan,5850765,2023
+India,Taiwan,5528467,2022
+Malaysia,Taiwan,6170558,2023
+Mexico,USA,9251812,2022
+Vietnam,Germany,8548769,2022
+Vietnam,Mexico,9204790,2023
+Mexico,Malaysia,6711378,2023
+Japan,China,1789667,2023
+USA,Vietnam,8969723,2023
+Germany,Vietnam,5513033,2021
+Vietnam,Taiwan,1024451,2023
+China,Mexico,8068803,2023
+Vietnam,Japan,939776,2023
+South Korea,Mexico,6535066,2021
+India,Japan,4658599,2021
+Vietnam,Malaysia,1674144,2021
+Taiwan,Vietnam,1027316,2023
+Japan,Germany,6464569,2023
+India,Japan,2493973,2023
+Germany,Japan,7354725,2023
+Germany,Japan,3217001,2023
+USA,Vietnam,8190799,2021
+USA,India,3195520,2021
+Taiwan,India,4788877,2021
+Vietnam,USA,4094714,2022
+Vietnam,Taiwan,9554818,2022
+Taiwan,India,5812951,2023
+USA,Japan,9080669,2022
+India,Germany,2412108,2023
+South Korea,China,5170326,2021
+China,Mexico,4272064,2022
+India,Malaysia,6250855,2021
+China,Vietnam,8893239,2022
+Vietnam,Malaysia,4165254,2023
+Malaysia,Taiwan,2128030,2021
+South Korea,Vietnam,3578237,2022
+Mexico,Germany,9252713,2021
+China,Malaysia,9351864,2021
+Japan,China,6279616,2023
+Taiwan,China,6952042,2023
+Taiwan,Japan,2472936,2022
+Japan,China,7077441,2021
+USA,China,2616414,2022
+Germany,India,9158798,2022
+China,Taiwan,9140314,2023
+Mexico,Germany,504902,2022
+USA,Germany,3647826,2022
+USA,Taiwan,9084196,2022
+Malaysia,India,6940890,2022
+Taiwan,South Korea,809380,2023
+Japan,Mexico,6069166,2022
+Germany,Japan,3119466,2023
+India,Vietnam,1720059,2021
+Malaysia,India,4806559,2023
+Malaysia,Vietnam,1016453,2021
+USA,India,4764995,2023
+China,Germany,6063943,2023
+China,USA,4533205,2023
+South Korea,Mexico,3533909,2023
+Japan,Taiwan,4892156,2021
+India,South Korea,8988543,2022
+USA,Mexico,7681534,2021
+Taiwan,Japan,1134052,2022
+Malaysia,Mexico,1982741,2022
+Malaysia,China,8257119,2021
+China,Taiwan,8807487,2023
+Mexico,Malaysia,5160653,2022
+Germany,Malaysia,3926385,2021
+India,South Korea,7591099,2022
+Mexico,USA,6506706,2021
+Taiwan,South Korea,7330851,2021
+Taiwan,South Korea,4744148,2023
+Japan,Malaysia,2780367,2021
+Malaysia,Vietnam,793676,2023
+Vietnam,South Korea,9371334,2022
+China,India,6302265,2022
+Vietnam,Taiwan,1578455,2021
+Mexico,Taiwan,8790642,2023
+Germany,India,8672377,2021
+Taiwan,India,2183695,2023
+Japan,Germany,586405,2022
+South Korea,Japan,5803722,2023
+Mexico,India,2914024,2022
